@@ -1,0 +1,3 @@
+[submodule "thirdparty/sub"]
+	path = thirdparty/sub
+	url = https://github.com/sunnycase/vsissue-subproject.git
