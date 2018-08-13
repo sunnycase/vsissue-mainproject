@@ -2,6 +2,7 @@
 //
 
 #include "vsissue-mainproject.h"
+#include "SubProject.h"
 
 using namespace std;
 
